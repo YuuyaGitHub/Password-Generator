@@ -14,3 +14,7 @@ This tool cannot always generate secure passwords.
 # Requirements
 * A working system with .NET Framework 3.5 (Windows 7 or newer recommended, Windows 10 or newer best)
 <br><br>If you don't have .NET Framework 3.5 installed, download it [here](https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net35-sp1).
+
+# Screenshots
+Check out the image below if you're wondering what the tool looks like :D
+![Main Screenshot](Screenshot.png)
